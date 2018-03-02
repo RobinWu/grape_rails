@@ -5,8 +5,13 @@ Gemfile
   gem 'grape'
   gem 'grape-jbuilder'
 
-https://github.com/ruby-grape/grape#reloading-in-rails-applications
-https://github.com/milkcocoa/grape-jbuilder
+Grape
+
+  https://github.com/ruby-grape/grape#reloading-in-rails-applications
+
+Grape-jbuilder
+
+  https://github.com/milkcocoa/grape-jbuilder
 
 提示: 文件名小写，类名大写
 ```ruby
